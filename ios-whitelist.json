@@ -1355,6 +1355,12 @@
       "target": "production",
       "version": "^~>\\s?2.[0-9]+$"
     },
+     {
+      "name": "SPPGlobe",
+      "source": "private",
+      "target": "production",
+      "version": "^~>\\s?0.[0-9]+$"
+    },
     {
       "name": "Hub",
       "source": "private",
