@@ -1333,11 +1333,18 @@
       "target": "production",
       "version": "^~>\\s?0.[0-9]+$"
     },
-    {
+    { 
+      "expires": "2023-05-20",
       "name": "SPPSpirtech",
       "source": "private",
       "target": "production",
       "version": "^~>\\s?2.[0-9]+$"
+    },
+    {
+      "name": "SPPSpirtech",
+      "source": "private",
+      "target": "production",
+      "version": "^~>\\s?3.[0-9]+$"
     },
     {
       "name": "SpGlobeWrapper",
